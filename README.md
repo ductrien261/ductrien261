@@ -70,11 +70,29 @@ Currently exploring **ML Engineering**, **Data Engineering**, **Multi Agents Sys
 
 ---
 
+## 🚀 Featured Projects
+
+### [Edumate](https://github.com/ductrien261) - Personalized Teaching & Learning Platform 🔒 *Private Source*
+**Role:** Research & Core Developer
+
+* **Research & Design:** Lead the research phase and designed the end-to-end system architecture for a personalized education platform.
+* **Knowledge Engineering:** Built **Knowledge Graph** systems and workflows to map educational content effectively.
+* **Advanced RAG:** Designed and implemented hybrid RAG pipelines, combining vector search (**Qdrant**) and graph-based retrieval (**Neo4j**) for high-precision context.
+* **Infrastructure:** Orchestrated a diverse stack including **FastAPI/Django** backends, **Neon** (PostgreSQL) databases, and **Backblaze B2** for scalable storage.
+* **Tech Stack:** `LangGraph` · `Qdrant` · `Neo4j` · `FastAPI` · `Django` · `Next.js` · `Neon DB`
+
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductrien261&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ductrien261&layout=compact&theme=default&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ductrien261&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ductrien261&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductrien261&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ductrien261&theme=default&hide_border=true" height="165" alt="Streak" />
+</p>
 
 ---
 
