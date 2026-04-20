@@ -72,14 +72,14 @@ Currently exploring **ML Engineering**, **Data Engineering**, **Multi Agents Sys
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductrien261&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ductrien261&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ductrien261&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductrien261&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ductrien261&layout=compact&theme=default&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ductrien261&theme=default&hide_border=true)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ductrien261&color=blueviolet&style=flat" alt="profile views"/>
   <br/>
   <em>"The best way to predict the future is to build it."</em>
 </p>
