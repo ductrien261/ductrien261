@@ -72,7 +72,7 @@ Currently exploring **ML Engineering**, **Data Engineering**, **Multi Agents Sys
 
 ## 🚀 Featured Projects
 
-### [Edumate](https://github.com/ductrien261) - Personalized Teaching & Learning Platform 🔒 *Private Source*
+### [EduMate](https://github.com/ductrien261) - Personalized Teaching & Learning Platform 🔒 *Private Source*
 **Role:** Research & Core Developer
 
 * **Research & Design:** Lead the research phase and designed the end-to-end system architecture for a personalized education platform.
