@@ -36,6 +36,7 @@ Currently exploring **ML Engineering**, **Data Engineering**, **Multi Agents Sys
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat&logo=swi-prolog&logoColor=white)
 
 **LLM / Agent / RAG**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -51,6 +52,7 @@ Currently exploring **ML Engineering**, **Data Engineering**, **Multi Agents Sys
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **MLOps / Infra**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
