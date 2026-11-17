@@ -126,8 +126,8 @@ Currently exploring **ML Engineering**, **Data Engineering**, **Multi-Agent Syst
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://YOUR-STATS-APP.vercel.app/api?username=ductrien261&count_private=true&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=ductrien261&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-peach-omega.vercel.app/api?username=ductrien261&count_private=true&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-peach-omega.vercel.app/api/top-langs/?username=ductrien261&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
