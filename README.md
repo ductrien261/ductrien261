@@ -95,7 +95,7 @@ Currently exploring **ML Engineering**, **Data Engineering**, **Multi-Agent Syst
 * **AI gateway:** every model call passes through one gateway with per-user token quotas, request logs and cost tracking.
 * **Tech Stack:** `Next.js` · `Django` · `FastAPI` · `LangGraph` · `Postgres + pgvector` · `Redis` · `LiveKit` · `three.js` · `Docker` · `GitHub Actions`
 
-### [Quorum](https://github.com/ductrien261) - Research-Based Stock Recommendation System 🔬 *Research-based* 🔬 *Research-based*
+### [Quorum](https://github.com/ductrien261/quorum) - Research-Based Stock Recommendation System 🔬 *Research-based*
 **Role:** Researcher & Developer
 
 * **Research to product:** turned a hierarchical deep learning model for stock ranking into a working web app for Vietnamese investors.
